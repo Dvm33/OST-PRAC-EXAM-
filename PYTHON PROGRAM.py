@@ -14,5 +14,5 @@ elif operator=="%"
     print ("Modulas is :",a%b)
 else :
   print("Invalid Operator")
-    
+print("Thankyou")
   
